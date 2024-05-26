@@ -1,0 +1,21 @@
+thead{
+    background-color: aqua;
+}
+tbody{
+    background-color: lightgreen;
+}
+
+tfoot{
+    background-color: lightseagreen;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border: 2px solid black;
+}
+td{
+    text-align: center;
+}
